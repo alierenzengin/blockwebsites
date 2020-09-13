@@ -4,7 +4,6 @@ A script to block websites quickly on Windows!
 
 <a href="https://github.com/alierenzengin/blockwebsites/blob/master/script.py" download>Click to Download Python File</a>
 
-<a href="https://github.com/alierenzengin/blockwebsites/blob/master/executable.exe" download>Click to Download Executable</a>
- (Antivirus detects threat but no problem. See here: https://github.com/pyinstaller/pyinstaller/issues/4633 https://github.com/pyinstaller/pyinstaller/issues/252
+<a href="https://github.com/alierenzengin/blockwebsites/blob/master/executable.exe" download>Click to Download Executable (Setup File)</a>
 
 I am a beginner programmer so if there are any mistakes I'm sorry.
