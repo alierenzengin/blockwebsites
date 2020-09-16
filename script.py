@@ -6,7 +6,7 @@ print("Type website address (without http and www)" )
 blockedSite = input()
 print("blocked site = "+ blockedSite)
 blockerIp = "127.0.0.1 "
-newData = blockerIp + blockededSite
+newData = blockerIp + blockedSite
 print("Adding data to hosts file")
 
 filePath = "C://Windows//System32//drivers//etc//hosts"
